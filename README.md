@@ -35,3 +35,8 @@ samples, guidance on mobile development, and a full API reference.
 ---
 ### Course 5. Make Card Section
 ![image](https://user-images.githubusercontent.com/63082842/212542918-15c74ea7-88d7-4fc5-80fc-c879bde25ccb.png)
+
+---
+### Course 6. Make Card Section reusable
+![image](https://user-images.githubusercontent.com/63082842/212546293-eb4c32e3-3277-49ac-99ac-9c6319ef049b.png)
+
