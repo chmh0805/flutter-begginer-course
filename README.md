@@ -40,3 +40,6 @@ samples, guidance on mobile development, and a full API reference.
 ### Course 6. Make Card Section reusable
 ![image](https://user-images.githubusercontent.com/63082842/212546293-eb4c32e3-3277-49ac-99ac-9c6319ef049b.png)
 
+---   
+### Course 7. Make StatefulWidget
+![image](https://user-images.githubusercontent.com/63082842/212913700-beb0beb3-e69a-4de9-ae03-81979a50af5a.png)
